@@ -1,5 +1,5 @@
 # CognitiveLiberty
-CognitiveLiberty/
+CognitiveLiberty/CognitiveLibertyMain/
 │
 ├── index.html
 ├── style.css
